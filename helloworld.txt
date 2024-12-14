@@ -1,0 +1,11 @@
+pip install bash
+
+
+control + shift + N  ==> create new folder
+
+nano <filename>
+
+rm <filename> ==> remove a file
+
+
+
