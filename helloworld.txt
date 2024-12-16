@@ -7,5 +7,35 @@ nano <filename>
 
 rm <filename> ==> remove a file
 
+git init
+
+git add <file>
+
+git add -A ==> stage all files
+
+git reset <file> ==> remove from staging area
+
+git commit -m "commit message"
+
+git config user.name <name>
+
+git config user.email <email>
+
+git log
+
+git status
+
+git remote add <origin> <address>
+
+git remote -v ==> check if the address is confirmed
+
+git push <origin> master
+
+
+
+
+
+
+
 
 
